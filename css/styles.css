@@ -1,5 +1,6 @@
 body{
     background-color: aquamarine;
+    margin-left: 60px;
 }
 
 .titulo{
@@ -12,4 +13,9 @@ body{
 
 #kinal{
     text-align: center;
+}
+
+.imagen1{
+    width: 150px;
+    height: 150px;
 }
